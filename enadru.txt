@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E213-D1B3
+
+ Directory of C:\Users\kiranTS\Desktop\New folder
+
+24-Jan-19  02:21 PM    <DIR>          .
+24-Jan-19  02:21 PM    <DIR>          ..
+24-Jan-19  02:21 PM                 0 enadru.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  36,143,415,296 bytes free
